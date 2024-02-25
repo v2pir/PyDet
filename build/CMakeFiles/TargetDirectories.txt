@@ -1,0 +1,5 @@
+/home/vansh/PyDet/build/CMakeFiles/rebuild_cache.dir
+/home/vansh/PyDet/build/CMakeFiles/edit_cache.dir
+/home/vansh/PyDet/build/CMakeFiles/filters.dir
+/home/vansh/PyDet/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/vansh/PyDet/build/pybind11/CMakeFiles/edit_cache.dir
