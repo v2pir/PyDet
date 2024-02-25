@@ -13,6 +13,8 @@ To use this module, download this repository and add it to the folder you need P
 - filters.cpp
 - pydet.py
 
+To download, run ```git clone https://github.com/v2pir/PyDet.git```
+
 After adding this to your folder, to use PyDet, simply type:
 
 ```import pydet as pd```
